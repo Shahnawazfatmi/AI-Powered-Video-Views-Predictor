@@ -46,7 +46,7 @@ st.markdown("""
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
 
     .stApp {
-        background: radial-gradient(circle at top left, #020617, #030a1a, #000);
+        background: radial-gradient(circle at top left, #020917, #030a1a, #000); 
         color: #e5e5e5;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
@@ -180,6 +180,7 @@ if st.button("🚀 Predict AI Estimated Views"):
 # 9️⃣ Footer
 st.markdown("""
     <footer>
-        © 2025 VisionAI Labs · Turning data into creative intelligence 🚀
+        © 2025 VisionAI Labs ·powered by shahnawaz akhtar fatmee 🚀 
     </footer>
 """, unsafe_allow_html=True)
+
